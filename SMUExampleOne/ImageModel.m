@@ -6,6 +6,8 @@
 //  Copyright (c) 2015 Eric Larson. All rights reserved.
 //
 
+//Haha! This does not have the solution, but it was a good try to verify I know how to use GitHub!!
+
 #import "ImageModel.h"
 
 @implementation ImageModel
